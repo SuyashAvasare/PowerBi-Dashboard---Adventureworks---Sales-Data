@@ -5,7 +5,7 @@ Dataset overview
 The data represents an omni-channel business that sells bikes and related products through internet and reseller channels across multiple countries and regions.
 ​
 
-It usually includes several related tables such as sales orders, customers, products, resellers, calendar/date, and sales territories, making it well suited for star-schema modeling.
+It usually includes several related tables such as sales orders, customers, products, resellers, calendar/date, and sales territories, making it well-suited for star-schema modeling.
 ​
 
 Core tables and fields
